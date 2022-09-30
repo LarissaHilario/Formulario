@@ -1,0 +1,14 @@
+.button {
+    border: none;
+    background-color: inherit;
+    font-size: 16px;
+    cursor: pointer; 
+    letter-spacing: 5px;
+    color: rgb(234, 94, 94);
+    border-radius: 25px;
+   
+    position: absolute;  
+    margin-left: 45%;   
+    margin-top: -20px;
+  }
+  

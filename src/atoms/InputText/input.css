@@ -1,0 +1,11 @@
+.inputText{
+    margin-bottom: 15px;
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #dddddd;
+  }
+  input[type="text"]:focus{
+    border: 2px solid #ca51d1;
+  }
+  
+  

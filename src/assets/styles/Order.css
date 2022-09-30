@@ -1,0 +1,27 @@
+
+  
+  .product_info{
+    width: 65%;
+    height: 150%;
+    background-color: #b14af1;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    position: relative;
+  }
+  
+ .product_info img{
+    width: 240px;
+    margin-top: 30px;
+    margin-left: 5px;
+  }
+
+   .product_info .content span{
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: 3px;
+  }
+  
+ .product_info .content p{
+    margin-top: 10px;
+    font-size:14px;
+  }

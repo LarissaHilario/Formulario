@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  text-decoration: none;
+  font-family: 'Josefin Sans', sans-serif;
+} 
+
+.title span{
+   margin-top: -40px;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    display: flex;
+  }
